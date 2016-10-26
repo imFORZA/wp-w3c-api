@@ -5,6 +5,17 @@
  * @package WP-W3c-API
  */
 
+/*
+Plugin Name: WP W3C API
+Plugin URI: https://github.com/wp-api-libraries/wp-w3c-api
+Description: Perform API requests to matchcollege.com in WordPress.
+Author: imFORZA
+Version: 1.0.0
+Author URI: https://www.imforza.com
+GitHub Plugin URI: https://github.com/wp-api-libraries/wp-w3c-api
+GitHub Branch: master
+*/
+
 /* Exit if accessed directly */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
